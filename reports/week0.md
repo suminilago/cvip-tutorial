@@ -67,3 +67,10 @@ labels.shape = [64]
 - Tensor와 Autograd의 기본 사용법을 익혔다.
 - MNIST 데이터셋을 불러오는 방법을 익혔다.
 - MLP 모델의 입력과 출력 구조를 이해했다.
+
+## 향후 계획
+
+- Loss Function 학습
+- Optimizer 학습
+- MNIST MLP Training 구현
+- Accuracy 측정

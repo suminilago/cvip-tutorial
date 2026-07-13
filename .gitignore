@@ -1,4 +1,6 @@
-venv/
+.venv/
+.vscode/
 _pycache_/
 *.pyc
 data/
+*.pth

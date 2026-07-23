@@ -41,5 +41,10 @@ Torchvision
 OpenCV
 Matplotlib
 
+## Reports
+
+- Semantic Segmentation Comparison
+  - reports/segmentation_comparison/model_comparison.md
+
 Author
 김수민

@@ -2,23 +2,16 @@
 
 ## Dataset
 
-ISBI 2012 EM Segmentation
-
-Training Images : 30
-
-Validation : 6
-
-Input Size
-
-```
-256×256
-```
+- ISBI 2012 EM Segmentation
+- Train : 30
+- Validation : 6
+- Image Size : 256×256
 
 ---
 
 ## Model
 
-Original U-Net
+- Original U-Net
 
 Encoder
 
@@ -87,35 +80,10 @@ Batch
 
 ## Result
 
-Baseline
-
-Dice
-
-```
-0.9515
-```
-
-IoU
-
-```
-0.9075
-```
-
----
-
-BCE + Dice
-
-Dice
-
-```
-0.9520
-```
-
-IoU
-
-```
-0.9085
-```
+| Model | Dice | IoU |
+|------|------|------|
+| BCE | 0.9515 | 0.9075 |
+| BCE + Dice | 0.9520 | 0.9085 |
 
 ---
 

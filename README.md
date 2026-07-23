@@ -18,6 +18,11 @@ Week3
 ✓ BCE
 ✓ BCE+Dice Loss
 
+Week5
+✓ FPN
+✓ Multi-scale Feature
+✓ Lateral Connection
+
 Repository Structure
 
 week0/

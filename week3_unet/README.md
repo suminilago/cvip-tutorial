@@ -81,9 +81,9 @@ Batch
 ## Result
 
 | Model | Dice | IoU |
-|------|------|------|
+|------|------:|------:|
 | BCE | 0.9515 | 0.9075 |
-| BCE + Dice | 0.9520 | 0.9085 |
+| BCE + Dice | **0.9520** | **0.9085** |
 
 ---
 
@@ -119,3 +119,15 @@ plot_history.py
 
 CVIP Tutorial Week3
 Biomedical Image Segmentation using U-Net
+
+## Validation Dice
+
+![](result/plots/validation_dice_comparison.png)
+
+## Validation IoU
+
+![](result/plots/validation_iou_comparison.png)
+
+## Validation Loss
+
+![](result/plots/validation_loss_comparison.png)

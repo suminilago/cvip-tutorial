@@ -29,6 +29,9 @@ week0/
 week1/
 week2/
 week3_unet/
+week4_pspnet/
+week5_fpn/
+reports/
 
 Environment
 

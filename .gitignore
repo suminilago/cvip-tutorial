@@ -1,7 +1,16 @@
-.venv/
 .vscode/
-_pycache_/
-*.pyc
 data/
-*.pth
 *.py[cod]
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Model checkpoints
+week6_vit/checkpoints/
+*.pth
+
+# OS / IDE
+.DS_Store
+Thumbs.db

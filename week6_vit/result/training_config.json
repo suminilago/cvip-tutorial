@@ -1,0 +1,16 @@
+{
+    "batch_size": 32,
+    "num_epochs": 20,
+    "learning_rate": 0.0003,
+    "weight_decay": 0.0001,
+    "num_workers": 0,
+    "model_depth": 4,
+    "num_classes": 30,
+    "image_size": 128,
+    "patch_size": 16,
+    "embed_dim": 192,
+    "num_heads": 3,
+    "mlp_dim": 384,
+    "dropout": 0.1,
+    "device": "cpu"
+}

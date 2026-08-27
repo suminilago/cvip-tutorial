@@ -5,11 +5,14 @@ data/
 # Python
 __pycache__/
 *.pyc
+
+# Virtual environments
 .venv/
 
 # Model checkpoints
 week6_vit/checkpoints/
 *.pth
+*.pt
 
 # OS / IDE
 .DS_Store

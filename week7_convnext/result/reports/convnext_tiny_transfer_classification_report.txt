@@ -1,0 +1,41 @@
+ConvNeXt-Tiny Transfer Learning
+Best epoch: 10
+Best validation accuracy: 87.43%
+Test accuracy: 88.38%
+
+               precision    recall  f1-score   support
+
+     aloevera     0.9596    0.9500    0.9548       200
+       banana     0.9698    0.9650    0.9674       200
+      bilimbi     0.9330    0.9750    0.9535       200
+   cantaloupe     0.4722    0.5100    0.4904       200
+      cassava     0.8605    0.9250    0.8916       200
+      coconut     0.9313    0.7450    0.8278       200
+         corn     0.9604    0.9700    0.9652       200
+     cucumber     0.9557    0.9700    0.9628       200
+      curcuma     0.8955    0.9000    0.8978       200
+     eggplant     0.9268    0.9500    0.9383       200
+     galangal     0.8000    0.9600    0.8727       200
+       ginger     0.9138    0.7950    0.8503       200
+        guava     0.8710    0.9450    0.9065       200
+         kale     0.9021    0.8750    0.8883       200
+    longbeans     0.9400    0.9400    0.9400       200
+        mango     0.8539    0.7600    0.8042       200
+        melon     0.4762    0.4000    0.4348       200
+       orange     0.8750    0.7350    0.7989       200
+        paddy     0.9353    0.9400    0.9377       200
+       papaya     0.9455    0.9550    0.9502       200
+   peperchili     0.9706    0.9900    0.9802       200
+    pineapple     0.9442    0.9300    0.9370       200
+       pomelo     0.8235    0.9100    0.8646       200
+      shallot     0.9045    0.9950    0.9476       200
+     soybeans     0.9104    0.9150    0.9127       200
+      spinach     0.9105    0.8650    0.8872       200
+sweetpotatoes     0.9517    0.9850    0.9681       200
+      tobacco     0.8850    0.8850    0.8850       200
+   waterapple     0.8733    0.9650    0.9169       200
+   watermelon     0.9630    0.9100    0.9357       200
+
+     accuracy                         0.8838      6000
+    macro avg     0.8838    0.8838    0.8823      6000
+ weighted avg     0.8838    0.8838    0.8823      6000

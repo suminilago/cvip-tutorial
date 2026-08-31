@@ -1,0 +1,43 @@
+ConvNeXt Kernel 3x3 + Label Smoothing Test Result
+======================================================================
+Best epoch: 17
+Best validation accuracy: 79.33%
+Label smoothing: 0.1
+Test accuracy: 76.60%
+
+               precision    recall  f1-score   support
+
+     aloevera     0.9259    0.7500    0.8287       200
+       banana     0.6954    0.5250    0.5983       200
+      bilimbi     0.7225    0.8200    0.7681       200
+   cantaloupe     0.4631    0.7850    0.5826       200
+      cassava     0.6940    0.8050    0.7454       200
+      coconut     0.8049    0.4950    0.6130       200
+         corn     0.8095    0.8500    0.8293       200
+     cucumber     0.8505    0.8250    0.8376       200
+      curcuma     0.7609    0.8750    0.8140       200
+     eggplant     0.7555    0.8650    0.8065       200
+     galangal     0.7845    0.9100    0.8426       200
+       ginger     0.7186    0.7150    0.7168       200
+        guava     0.8050    0.8050    0.8050       200
+         kale     0.8263    0.7850    0.8051       200
+    longbeans     0.8278    0.8650    0.8460       200
+        mango     0.7168    0.6200    0.6649       200
+        melon     0.3750    0.0300    0.0556       200
+       orange     0.7022    0.6250    0.6614       200
+        paddy     0.8214    0.8050    0.8131       200
+       papaya     0.7913    0.9100    0.8465       200
+   peperchili     0.8286    0.8700    0.8488       200
+    pineapple     0.8895    0.8050    0.8451       200
+       pomelo     0.7632    0.8700    0.8131       200
+      shallot     0.7305    0.9350    0.8202       200
+     soybeans     0.7833    0.7950    0.7891       200
+      spinach     0.7792    0.6000    0.6780       200
+sweetpotatoes     0.8557    0.8600    0.8579       200
+      tobacco     0.7512    0.7850    0.7677       200
+   waterapple     0.7682    0.8950    0.8268       200
+   watermelon     0.8780    0.9000    0.8889       200
+
+     accuracy                         0.7660      6000
+    macro avg     0.7626    0.7660    0.7539      6000
+ weighted avg     0.7626    0.7660    0.7539      6000

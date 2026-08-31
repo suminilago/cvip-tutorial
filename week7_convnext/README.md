@@ -1,5 +1,18 @@
 # Week 7 - ConvNeXt 구현 및 실험
 
+> **추가 성능 개선 실험**
+>
+> 기존 Custom ConvNeXt 실험 이후 Test Accuracy 80% 이상을 목표로
+> Label Smoothing, Strong Augmentation, Longer Training,
+> LayerScale + DropPath 및 Pretrained ConvNeXt-Tiny Transfer Learning을
+> 추가로 실험하였습니다.
+>
+> **[→ ConvNeXt 성능 개선 실험 보고서](IMPROVEMENT_REPORT.md)**
+>
+> 최종 Test Accuracy: **88.38%**
+
+---
+
 ## 1. 실험 목적
 
 본 실습에서는 Liu et al., **"A ConvNet for the 2020s" (CVPR 2022)** 논문을 기반으로 ConvNeXt의 핵심 구조를 직접 구현하고, Plants Classification 데이터셋에서 image classification 실험을 수행하였다.
